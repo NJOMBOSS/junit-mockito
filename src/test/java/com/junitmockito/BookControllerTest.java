@@ -113,7 +113,7 @@ public class BookControllerTest {
                 .rating(1)
                 .build();
 
-     //   Mockito.when(bookService.getBookById(RECORD_1.getBookId())).thenReturn(RECORD_1);
+       Mockito.when(bookService.getBookById(RECORD_1.getBookId())).thenReturn(RECORD_1);
         Mockito.when(bookService.createBookRecord(updateRecord)).thenReturn(updateRecord);
 
         String updateContent = objectWriter.writeValueAsString(updateRecord);
