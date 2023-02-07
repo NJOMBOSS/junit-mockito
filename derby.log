@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Jan 12 12:38:38 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0185-a5c6-5b38-00000cf7f3c0 
+on database directory memory:C:\Users\Eric FONKE\Documents\Projet-2023\junit-mockito\1a4ae450-f1ea-4fee-8e31-88e45b41606a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/C:/Users/Eric%20FONKE/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.15+8-LTS-149
+user.dir=C:\Users\Eric FONKE\Documents\Projet-2023\junit-mockito
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jan 12 12:38:56 CET 2023:
+Shutting down instance a816c00e-0185-a5c6-5b38-00000cf7f3c0 on database directory memory:C:\Users\Eric FONKE\Documents\Projet-2023\junit-mockito\1a4ae450-f1ea-4fee-8e31-88e45b41606a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
